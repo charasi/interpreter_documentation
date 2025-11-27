@@ -1,7 +1,3 @@
-# Unit Testing Setup (Vitest)
-
-Since we are currently isolating the interpreter package within the monorepo, we use a local installation of **Vitest**. This configuration explicitly sets the environment to Node.js to match the backend nature of the interpreter.
-
 ## 1. Install Vitest
 Navigate to the interpreter package directory and install the dependency:
 
